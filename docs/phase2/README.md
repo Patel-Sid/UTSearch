@@ -1,0 +1,2 @@
+- Each CRC card is stored in it's own .md file
+- The title of each file is the name of the class for that card

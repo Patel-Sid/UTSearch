@@ -1,0 +1,1 @@
+{"query":"test pdf","hits_found":5,"results":[],"time_taken":3}

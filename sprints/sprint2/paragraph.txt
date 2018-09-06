@@ -1,0 +1,1 @@
+The team did not finish all the tasks in the sprint. We did have a problem towards the end of the sprint. We noticed that a page wasn’t working which made it difficult for us to get the frontend working. The curve in our burndown chart moves upwards. This is because we added more user stories to the product backlog at the beginning of sprint 2.
